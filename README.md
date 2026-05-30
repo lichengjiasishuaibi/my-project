@@ -19,7 +19,7 @@
 ## 🚀 快速使用
 ### 本地预览
 1.  克隆仓库到本地：`git clone https://gitee.com/abc_dddd/my-project.git`
-    （这里的`abc_dddd`改成你自己的Gitee用户名）
+    
 2.  进入项目文件夹，直接双击打开 `index.html` 文件，即可在浏览器中查看完整网站。
 
 ### 在线访问
